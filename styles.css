@@ -1,0 +1,22 @@
+header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1000;
+    background-color: #f8f9fa;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.container {
+    margin-top: 100px; /* Ajusta el valor según sea necesario */
+}
+
+
+.col-md-6 {
+    margin-bottom: 100px;
+}
+
+table {
+    margin-top: 20px;
+}
